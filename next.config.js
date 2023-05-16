@@ -22,6 +22,6 @@ module.exports = withPWA({
   },
   env: {
     key: process.env.COUNT_API_KEY,
-    URL: https://minha-apiakkk.onrender.com/api/,
+    URL: "https://minha-apiakkk.onrender.com/api/",
   },
 });
